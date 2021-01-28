@@ -1,0 +1,8 @@
+### Send POST request with json body
+POST http://localhost:3000/tasks
+Content-Type: application/json
+
+{
+  "title": "NetsJS",
+  "description": "NestJS Description"
+}
