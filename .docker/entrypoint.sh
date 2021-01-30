@@ -1,4 +1,4 @@
 #!/bin/bash
 
-RUN npm install
-RUN npm start:dev
+npm install
+npm run start:dev
